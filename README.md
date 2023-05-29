@@ -1,6 +1,5 @@
 # IBM-Data-Science
 
-#Datascience
-#IBM
+#Datascience #IBM
 #Karam_ALhanatleh
 
