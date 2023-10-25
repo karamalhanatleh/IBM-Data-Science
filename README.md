@@ -1,8 +1,7 @@
 # IBM-Data-Science
 #Python 
 #ML 
-#DS 
-#Datascience 
+#DS #Datascience 
 #IBM
 #Karam_ALhanatleh
 
