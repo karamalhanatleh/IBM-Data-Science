@@ -1,6 +1,5 @@
 # IBM-Data-Science
-#IBM 
-#Python 
+#IBM #Python 
  #ML#DS 
 #Datascience 
 #IBM
